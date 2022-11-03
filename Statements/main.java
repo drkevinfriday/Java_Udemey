@@ -7,6 +7,9 @@ public class main {
         myVar--;
         System.out.println("test");
         System.out.println(myVar);
+
+        int anotherVar = 50; anotherVar--;      
+            System.out.println("this is another one " + myVar);
         
     }
 }
